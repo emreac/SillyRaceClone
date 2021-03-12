@@ -23,5 +23,6 @@
   • The player is able to paint a wall at the end of the game and can track painting progress with progress bar <br>
   • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br>
   • There are 10 trained ml agents <br>
-        There were trained with both reinforcement and imitation learning <br></h3>
-  
+     <blockquote> 
+ There were trained with both reinforcement and imitation learning <br></h3>
+   </blockquote> 
