@@ -24,5 +24,5 @@
   • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br>
   • There are 10 trained ml agents <br>
      <blockquote> 
- There were trained with both reinforcement and imitation learning <br></h3>
+ They were trained with both reinforcement and imitation learning <br></h3>
    </blockquote> 
