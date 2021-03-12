@@ -7,7 +7,7 @@
 
 <h1>Features</h1>
 
- <h3> • Character has 360 degree moving ability x and z axises <br>
+ <h3> • Character has 360 degree moving ability x and z axises <br><br>
   • There are 3 types of obstacles <br>
        <blockquote> 
         Still <br>
@@ -18,10 +18,10 @@
           <blockquote> 
     If any game object hits the rotater obstacle that will be effected by AddExplosionForce()<br>
           </blockquote> 
-           </blockquote> 
+           </blockquote> <br>
          
-  • The player is able to paint a wall at the end of the game and can track painting progress with progress bar <br>
-  • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br>
+  • The player is able to paint a wall at the end of the game and can track painting progress with progress bar <br><br>
+  • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br><br>
   • There are 10 trained ml agents <br>
      <blockquote> 
  They were trained with both reinforcement and imitation learning <br></h3>
