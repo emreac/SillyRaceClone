@@ -9,10 +9,16 @@
 
  <h3> • Character has 360 degree moving ability x and z axises <br>
   • There are 3 types of obstacles <br>
-       Still <br>
-       Horizontal <br>
-       Rotater <br>
-       If any game object hits the rotater obstacle that will be effected by AddExplosionForce()<br>
+       <blockquote> 
+        Still <br>
+        Horizontal <br>
+        Rotater <br>
+        </blockquote> 
+         <blockquote> 
+          <blockquote> 
+    If any game object hits the rotater obstacle that will be effected by AddExplosionForce()<br>
+          </blockquote> 
+           </blockquote> 
            <br>
   • The player is able to paint a wall at the end of the game and can track painting progress with progress bar <br>
   • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br>
