@@ -6,7 +6,7 @@ This is a casual runner game that includes ml agents as opponets
 
 <h1>Features</h1>
 
-  • Character has 360 degree moving ability x and z axises <br>
+ <p> • Character has 360 degree moving ability x and z axises <br>
   • There are 3 types of obstacles <br>
        Still <br>
        Horizontal <br>
@@ -16,5 +16,5 @@ This is a casual runner game that includes ml agents as opponets
   • The player is able to paint a wall at the end of the game and can track painting progress with progress bar <br>
   • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br>
   • There are 10 trained ml agents <br>
-        There were trained with both reinforcement and imitation learning <br>
+        There were trained with both reinforcement and imitation learning <br></p>
   
