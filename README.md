@@ -12,7 +12,7 @@
        <blockquote> 
         Still <br>
         Horizontal <br>
-        Rotater <br>
+        Rotator <br>
         </blockquote> 
          <blockquote> 
           <blockquote> 
