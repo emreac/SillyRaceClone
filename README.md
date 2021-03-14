@@ -27,4 +27,4 @@
      <blockquote> 
  They were trained with both reinforcement and imitation learning <br></h3>
    </blockquote> 
-  • Realtime ranking system
+  • <h3>Realtime ranking system</h3>
