@@ -3,7 +3,8 @@
 <h2>This is a casual runner game that includes ml agents as opponets</h2>
 <h3>Open Level1 in the Scenes folder</h3> <br>
 
-![Cover](https://user-images.githubusercontent.com/9268751/110983893-6b56d180-837b-11eb-8221-0a2b05bd0f68.png)
+![update](https://user-images.githubusercontent.com/9268751/111085069-b5c88180-8526-11eb-8c96-76ef7691ebdf.png)
+
 
 <h1>Features</h1>
 
@@ -26,3 +27,4 @@
      <blockquote> 
  They were trained with both reinforcement and imitation learning <br></h3>
    </blockquote> 
+  • Realtime ranking system
