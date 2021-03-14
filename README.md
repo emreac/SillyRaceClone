@@ -9,7 +9,7 @@
 <h1>Features</h1>
 
  <h3> • Character has 360 degree moving ability x and z axises <br><br>
-•  Realtime ranking system <br>
+•  Realtime ranking system <br><br>
  
   • There are 3 types of obstacles <br>
        <blockquote> 
