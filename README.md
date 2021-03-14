@@ -9,6 +9,8 @@
 <h1>Features</h1>
 
  <h3> • Character has 360 degree moving ability x and z axises <br><br>
+•  Realtime ranking system 
+ 
   • There are 3 types of obstacles <br>
        <blockquote> 
         Still <br>
@@ -25,6 +27,5 @@
   • 2 Cinemachine virtual cameras allow to get smooth camera transition between platform and painting area.   <br><br>
   • There are 10 trained ml agents <br>
      <blockquote> 
- They were trained with both reinforcement and imitation learning <br></h3>
+ They were trained with both reinforcement and imitation learning</h3>
    </blockquote> 
-  • <h3>Realtime ranking system</h3>
