@@ -11,7 +11,7 @@ public class Stick : MonoBehaviour
 
     void FixedUpdate()
     {
-
+        //Hits any collider in the game
         if(stick == enabled)
         {
             Hit();

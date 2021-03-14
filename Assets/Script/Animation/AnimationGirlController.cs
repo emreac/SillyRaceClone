@@ -8,10 +8,10 @@ public class AnimationGirlController : MonoBehaviour
    
     void Start()
     {
+        //Mlagent Animation Starter
         animator.SetBool("isRunning", true);
     }
 
-   
     void Update()
     {
         

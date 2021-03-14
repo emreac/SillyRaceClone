@@ -12,7 +12,6 @@ public class RaySelection : MonoBehaviour
 
     public ProgressBar bar;
 
-
     private void Start()
     {
         currentAmount = maxAmount;
@@ -29,7 +28,7 @@ public class RaySelection : MonoBehaviour
                 congrat.SetActive(true);
                 paintRoller.SetActive(false);
             }
-
+            //Use raycast to click triggers
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
@@ -37,24 +36,22 @@ public class RaySelection : MonoBehaviour
             {
                 if (hit.transform.tag == "TriggerBar")
                 {
-                    GetRecover(12);
+                    //There are 9 triggers on the painting wall
+                    //Reduce 12 for each triggers
+                    ReduceAmmount(12);
                     Destroy(hit.transform.gameObject);
                     Debug.Log(currentAmount);
                     
                 }
                 
-            }
-           
-
+            }      
         }
-
-
-
     }
 
-    void GetRecover(int recover)
+    //Reduce Amount From Bar 
+    void ReduceAmmount(int reduce)
     {
-        currentAmount -= recover;
+        currentAmount -= reduce;
         bar.SetAmount(currentAmount);
     }
  

@@ -6,15 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class RestatGame : MonoBehaviour
 {
-  
-
-
     void Start()
     {
         
     }
 
- 
     void Update()
     {
       

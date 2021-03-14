@@ -12,9 +12,10 @@ public class animationStateController : MonoBehaviour
         animator = GetComponent<Animator>();    
     }
 
-    // Update is called once per frame
+
     void Update()
     {
+        //Player animation controller
         if (Input.GetMouseButton(0))
         {
             animator.SetBool("isRunning", true);

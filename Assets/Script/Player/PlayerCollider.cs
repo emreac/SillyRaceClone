@@ -15,10 +15,8 @@ public class PlayerCollider : MonoBehaviour
 
     void Start()
     {
-
         FindObjectOfType<PaintWall>().enabled = false;
     }
-
 
     void Update()
     {
@@ -36,6 +34,8 @@ public class PlayerCollider : MonoBehaviour
         }
         if (other.tag == "FinishLine")
         {
+
+            //Camera transition at the end of the game
             FindObjectOfType<CamController>().switchPriority();
 
             Invoke("DisableCanvas", 1);
@@ -48,6 +48,7 @@ public class PlayerCollider : MonoBehaviour
 
     public void ActivePaintingButton()
     {
+        //Activates painting mode
         canvasPaintRoller.SetActive(true);
         canvasProgressBar.SetActive(true);
         triggerCollider.enabled = false;
@@ -59,7 +60,7 @@ public class PlayerCollider : MonoBehaviour
   
     void DisableCanvas()
     {
-
+        //Disables Player Controllers while painting
         paintWallMenu.SetActive(true);
         player.SetActive(false);
         canvasPlayerJoystick.SetActive(false);
