@@ -1,6 +1,6 @@
 # RunnerDemo
 
-<h2>This is a casual runner game that includes ml agents as opponets</h2>
+<h2>In this game, you can race with ai agents by 360 movement ability</h2>
 <h3>Open Level1 in the Scenes folder</h3> <br>
 
 ![update](https://user-images.githubusercontent.com/9268751/111085069-b5c88180-8526-11eb-8c96-76ef7691ebdf.png)
