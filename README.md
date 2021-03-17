@@ -1,4 +1,4 @@
-# RunnerDemo
+# Silly Race Clone
 
 <h2>In this game, you can race with ai agents by 360 movement ability</h2>
 <h3>Open Level1 in the Scenes folder</h3> <br>
